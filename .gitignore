@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Build
+*.log
+dist/
